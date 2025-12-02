@@ -1,6 +1,15 @@
 DeepSeek
 梁文锋
 
+通信
+5G
+6G
+基站
+业余无线电
+八重洲
+ICOM
+
+
 华为
 鸿蒙
 HarmonyOS
